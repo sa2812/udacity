@@ -1,6 +1,5 @@
 *.tar.gz
 */maildir/
-*.txt
 
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
